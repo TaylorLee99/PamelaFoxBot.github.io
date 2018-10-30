@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CSS: Black Pink fan page  </title>
+    <style>
+       
+        .red {
+            color: rgb(255, 0, 0);
+        }
+        
+        .orange {
+            color: rgb(255, 128, 0);
+        }
+        
+        .yellow {
+            color: yellow;
+        }
+        
+        .green {
+            color: #008000;
+        }
+        
+        .blue {
+            color: rgb(0, 0, 255);
+        }
+        
+        .indigo {
+            color: rgb(75, 0, 130);
+        }
+        
+        .violet {
+            color: rgb(148, 0, 211);
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Black Pink</h1>
+    
+    <h3> Description</h3>
+    <p><strong>Blackpink</strong> is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Lisa, and Rose. </p> 
+    
+    <h3> Albums</h3>
+    
+    <ul>
+        <li class="red">SQUARE ONE</li>
+        <image src="https://vignette.wikia.nocookie.net/blinks/images/3/3e/Square_One_Cover.jpg/revision/latest?cb=20170208214140"width="250"> 
+        
+        	<p>Artist: Black Pink </p> 
+            <p>Relese date: August 08 2016</p>
+            <p>Label: YG Entertainment  </p>
+            <p>General: K-pop </p> 
+            
+        <li class="orange">SQUARE TWO</li>
+        <image src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/4d/67/67/4d676786-6e45-4d00-281a-5e9db491efa4/BLACKPINK_SQUARE2-1.jpg/600x600bf.png" width="250">
+        
+        <p>Artist: Black Pink </p> 
+        <p> Release date: November 1 2016 </p> 
+        <p>Label: YG Entertainment </p> 
+        
+        <li class="blue">As IF IT'S YOUR LAST</li>
+        <image src= "https://cdnimg.melon.co.kr/cm/album/images/100/72/696/10072696_500.jpg?e3b6d8be8521a03a836ee4d760c34b61/melon/sharpen/0x1/quality/80/optimize"width= "250">
+        <p>Artist: Black Pink </p> 
+        <p>Release Date: August 30 2017 </p> 
+        <p>Label: YGEX </p> 
+        <p>Genere: K-pop, J-pop </p> 
+        <p>Producer: Teddy Park
+        
+        <li class="green">SQUARE UP</li>
+        <image src="https://images-na.ssl-images-amazon.com/images/I/61Ewmjvup6L._SX425_.jpg"width= "250"> 
+        <p>Artist: Black Pink </p> 
+        <p>Release Date: June 15 2018 </p> 
+        <p>Label: YGEX </p> 
+        <p>Genere: K-pop </p>
+        <p>Producers: Teddy Park </p> 
+    </ul>
+</body>
+
+
+</html>
